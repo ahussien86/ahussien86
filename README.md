@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 أهلا بيك، أنا أحمد حسين  
 
-<!--
-**ahussien86/ahussien86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 طالب في كلية الهندسة – جامعة المنيا  
+🤖 بحب الذكاء الاصطناعي، البرمجة، وكل ما هو جديد في التكنولوجيا  
+🚀 هدفي أطور نفسي وأعمل مشاريع تنفع الناس  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ اهتماماتي
+- الذكاء الاصطناعي (AI)  
+- تطوير مواقع الويب  
+- تعلم مهارات جديدة بشكل مستمر  
+
+---
+
+## 📫 تواصل معايا
+- [LinkedIn](https://www.linkedin.com/in/ahmed-hussien-126714381)  
+- [Facebook](https://www.facebook.com/ahussien111)  
+- [Email](mailto:a.hussien8686@gmail.com)  
+
+---
+
+💡 "رحلتي لسه في البداية.. بس الحلم كبير والطموح أكبر"
